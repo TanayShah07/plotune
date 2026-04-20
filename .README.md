@@ -1,0 +1,17 @@
+# Plotune 🎬🎧
+
+Describe. Discover. Play.
+
+An AI-powered multilingual system that recognizes movies from descriptions and songs from lyrics, with a conversational assistant.
+
+## Tech Stack
+- React + Tailwind
+- Node.js + Express
+- FastAPI (ML)
+- MongoDB
+
+## Architecture
+Client → Server → ML Service
+
+## Status
+In Development
